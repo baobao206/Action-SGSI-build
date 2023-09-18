@@ -12,7 +12,7 @@ on:
         required: true
         default: 'miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
       OS_TYPE:
-        description: 'OS_TYPE'
+        description: 'lgux'
         required: true
         default: 'miui'
       SGSI_TYPE:
